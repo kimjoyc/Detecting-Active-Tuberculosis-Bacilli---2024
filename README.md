@@ -1,4 +1,5 @@
 # Detecting-Active-Tuberculosis-Bacilli---2024
+<iframe src="Hackathon_FCN.pdf" width="600" height="400"></iframe>
 [View PDF](Hackathon_FCN.pdf)
 
 ![Python](https://img.shields.io/badge/Python-100%25-blue) ![License](https://img.shields.io/badge/License-MIT-green)
